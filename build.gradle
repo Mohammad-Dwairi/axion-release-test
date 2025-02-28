@@ -1,9 +1,10 @@
 plugins {
     id 'org.jetbrains.kotlin.jvm' version '2.0.21'
+    id 'pl.allegro.tech.build.axion-release' version '1.18.7'
 }
 
 group = 'com.expediagroup'
-version = '1.0-SNAPSHOT'
+version = scmVersion.version
 
 repositories {
     mavenCentral()
