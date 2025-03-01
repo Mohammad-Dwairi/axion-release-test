@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Mohammad-Dwairi/axion-release-test/compare/v1.1.0...v1.1.1) (2025-03-01)
+
+
+### Bug Fixes
+
+* add hello-world! ([6ca0d59](https://github.com/Mohammad-Dwairi/axion-release-test/commit/6ca0d590c9fab12fe6cd1be6226c8ed61efb42b9))
+
 ## [1.1.0](https://github.com/Mohammad-Dwairi/axion-release-test/compare/v1.0.0...v1.1.0) (2025-03-01)
 
 
