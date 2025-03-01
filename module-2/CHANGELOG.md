@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.3.0-SNAPSHOT](https://github.com/Mohammad-Dwairi/axion-release-test/compare/module-2-v1.2.0...module-2-v1.3.0-SNAPSHOT) (2025-03-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* **module-1:** encode method no longer throws.
+
+### Features
+
+* **module-2:** dummy feature ([64ffb1c](https://github.com/Mohammad-Dwairi/axion-release-test/commit/64ffb1cfa859fd9a7393fed776c958440d8fbf42))
+* test independent version bumps ([64ffb1c](https://github.com/Mohammad-Dwairi/axion-release-test/commit/64ffb1cfa859fd9a7393fed776c958440d8fbf42))
+* test release as ([6be1c9f](https://github.com/Mohammad-Dwairi/axion-release-test/commit/6be1c9fd056ce7861540c1114f4d5df3125df5fc))
+
+
+### Bug Fixes
+
+* **module-1:** dummy fix ([64ffb1c](https://github.com/Mohammad-Dwairi/axion-release-test/commit/64ffb1cfa859fd9a7393fed776c958440d8fbf42))
+
 ## [1.2.0](https://github.com/Mohammad-Dwairi/axion-release-test/compare/module-2-v1.1.1...module-2-v1.2.0) (2025-03-01)
 
 
