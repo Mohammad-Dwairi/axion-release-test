@@ -4,11 +4,13 @@
   "include-component-in-tag": false,
   "packages": {
     "module-1": {
+      "component": "module-1",
       "extra-files": [
         "build.gradle"
       ]
     },
     "module-2": {
+      "component": "module-2",
       "extra-files": [
         "build.gradle"
       ]
