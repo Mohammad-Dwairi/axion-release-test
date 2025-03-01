@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Mohammad-Dwairi/axion-release-test/compare/v1.0.0...v1.1.0) (2025-03-01)
+
+
+### Features
+
+* add main class11 ([ce72762](https://github.com/Mohammad-Dwairi/axion-release-test/commit/ce72762a4a825408685c38eddfe8e70ccec79452))
+
 ## 1.0.0 (2025-03-01)
 
 
