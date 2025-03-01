@@ -5,8 +5,12 @@
   "packages": {
     "module-1": {
       "extra-files": [
-        "module-1/build.gradle",
-        "module-2/build.gradle"
+        "build.gradle"
+      ]
+    },
+    "module-2": {
+      "extra-files": [
+        "build.gradle"
       ]
     }
   }
