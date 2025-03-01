@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/Mohammad-Dwairi/axion-release-test/compare/module-1-v1.2.0...module-1-v1.3.0) (2025-03-01)
+
+
+### Features
+
+* **module-1:** update module-1 ([20a8bdd](https://github.com/Mohammad-Dwairi/axion-release-test/commit/20a8bdd6cfdcfc1439f5598bc04707ad66a8ae36))
+
+
+### Bug Fixes
+
+* **module-2:** fix module-2 ([20a8bdd](https://github.com/Mohammad-Dwairi/axion-release-test/commit/20a8bdd6cfdcfc1439f5598bc04707ad66a8ae36))
+
 ## [1.2.0](https://github.com/Mohammad-Dwairi/axion-release-test/compare/v1.1.0...v1.2.0) (2025-03-01)
 
 
